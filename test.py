@@ -1,1 +1,1 @@
-print ("Hello Buddy!!! v6")
+pri Hello Buddy!!! v6")
